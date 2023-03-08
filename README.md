@@ -1,5 +1,10 @@
 # React/JavaScript: Starter SPA Code Sample
 
+## Demo
+
+[Test the OKTA Auth0 Connection](https://example.com)
+
+## Overview 
 This JavaScript code sample demonstrates how to build a Single-Page Application (SPA) using React. This React code sample builds the API server using the React Router 6 library.
 
 Visit the ["React/JavaScript Code Samples: SPA Security in Action"](https://developer.auth0.com/resources/code-samples/spa/react) section of the ["Auth0 Developer Resources"](https://developer.auth0.com/resources) to explore how you can secure React applications written in JavaScript by implementing endpoint protection and authorization with Auth0.
@@ -43,3 +48,14 @@ npm start
 Visit [`http://localhost:4040/`](http://localhost:4040/) to access the starter application.
 
 In the starter project, all the starter React application routes are public. However, you can use Auth0 to get an ID token to hydrate the user profile information present on the `/profile` page with information from a real user. With Auth0, you can also get an access token to make a secure call to an external API to hydrate the messages present in the `/protected` and `/admin` pages.
+
+
+## Useful resources
+
+- Explains step by steps how to do the integration of Auth0 in a react app.
+
+[React Authentication By Example: Using React Router 6](https://developer.auth0.com/resources/guides/spa/react/basic-authentication)
+
+- Explains in details how to create the OKTA app to connect to Auth0.
+
+[Connect Your Auth0 Application with Okta Enterprise Connection](https://auth0.com/docs/authenticate/identity-providers/enterprise-identity-providers/okta)
