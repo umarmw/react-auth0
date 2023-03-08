@@ -2,7 +2,7 @@
 
 ## Demo
 
-[Test the OKTA Auth0 Connection](https://example.com)
+[Test the OKTA Auth0 Connection](https://glittery-longma-4a183c.netlify.app/)
 
 ## Overview 
 This JavaScript code sample demonstrates how to build a Single-Page Application (SPA) using React. This React code sample builds the API server using the React Router 6 library.
